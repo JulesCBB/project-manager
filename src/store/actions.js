@@ -1,4 +1,4 @@
-const INITIAL_DATA_URL = "http://localhost:3000"
+const INITIAL_DATA_URL = "https://raw.githubusercontent.com/techlab23/data-repository/master/boards.json"
 import axios from "axios"
 
 export default {
