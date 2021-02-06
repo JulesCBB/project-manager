@@ -1,4 +1,4 @@
-const INITIAL_DATA_URL = "https://raw.githubusercontent.com/JulesCBB/project-manager/master/src/db.json"
+const INITIAL_DATA_URL = "https://raw.githubusercontent.com/techlab23/data-repository/master/boards.json"
 import axios from "axios"
 
 export default {
