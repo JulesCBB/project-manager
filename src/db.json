@@ -1,4 +1,4 @@
-
+[
   {
     "id": "1",
     "name": "React Store",
@@ -42,4 +42,49 @@
         "text": "Lay out general App structure"
       }]
     }]
-  }
+  },
+  {
+    "id": "c01aa881-9422-c4f3-bc4a-34f133a09232",
+    "name": "System Software Project",
+    "description": "Final project for the course of System Software",
+    "archived": false,
+    "lists": [
+    {
+      "id": "81b17bb7-c6ab-6439-9609-d152a3d74157",
+      "name": "To Do",
+      "headerColor": "#607d8b",
+      "archived": false,
+      "items": [
+      {
+        "id": "35b0569d-333c-2aff-2dd1-beacefdc83ba",
+        "text": "Check for concurrency"
+      },
+      {
+        "id": "2080fb6d-53b0-f42b-e8dd-87876e9294df",
+        "text": "Implement mutex in buffer"
+      }]
+    },
+    {
+      "id": "752e45d7-924a-a6b7-43e9-d05edb7fd90a",
+      "name": "Doing",
+      "headerColor": "#607d8b",
+      "archived": false,
+      "items": [
+      {
+        "id": "0b07ac5b-4cfc-0890-e835-ba5e67deb4c8",
+        "text": "Build logging system"
+      }]
+    },
+    {
+      "id": "4859408a-3843-eee0-43a3-692938c40d91",
+      "name": "Done",
+      "headerColor": "#607d8b",
+      "archived": false,
+      "items": [
+        {
+          "id": "0b07ac5b-4cfc-0890-e835-ba5e67deb4c8",
+          "text": "Program main thread"
+        }
+      ]
+    }]
+  }]
